@@ -1,4 +1,4 @@
-#Author: KANG-NEWBIE (noobie)
+#Author: FR13NDS
 
 import requests,time,os
 
